@@ -1,0 +1,58 @@
+h1{
+  padding-top: 40px;
+  font-family: "Playlist-script";
+  text-align: center;
+  color: #c06d85;
+}
+/* NAVBAR */
+
+.navbar{
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+.navbar-brand{
+  font-family: 'Playlist-script';
+  font-size: 2rem;
+  color: #c06d85;
+}
+.navbar-brand:hover{
+    color: #ad3251;
+}
+.nav-link{
+  color: #c06d85;
+  font-family: "Raleway";
+}
+.nav-link:hover{
+  color: #ad3251;
+}
+
+/* FOTOS SECTION */
+
+.fotos-container{
+  background-color: #fff;
+  text-align: center;
+  padding: 3% 10%;
+}
+.col-container{
+  margin-top: 20px;
+}
+.img-estilos{
+  width: 100%;
+  height:100%;
+}
+
+/* FOOTER */
+
+.footer{
+  font-family: "Raleway";
+  background-color:#ffcbd8;
+  text-align: center;
+  padding: 7% 15%;
+}
+.social-icon{
+  color: #c06d85;
+  margin: 20px 10px;
+}
+.copyright-footer{
+  color: #fff;
+}

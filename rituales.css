@@ -1,0 +1,161 @@
+h1{
+  padding-top: 40px;
+  font-family: "Playlist-script";
+  text-align: center;
+  color: #c06d85;
+}
+/* NAVBAR */
+
+.navbar{
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+.navbar-brand{
+  font-family: 'Playlist-script';
+  font-size: 2rem;
+  color: #c06d85;
+}
+.navbar-brand:hover{
+    color: #ad3251;
+}
+.nav-link{
+  color: #c06d85;
+  font-family: "Raleway";
+}
+.nav-link:hover{
+  color: #ad3251;
+}
+
+/* RITUALES SECTION */
+
+/* FLORES RITUAL */
+.rituales-section{
+  padding-top: 30px;
+}
+.flores-container{
+  background-color:#ffcbd8;
+}
+.flores-img{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+.text-container{
+  text-align: center;
+  width: 40%;
+  font-family: "Raleway";
+  line-height: 1.7rem;
+  color: #c06d85;
+}
+.explicacion-ritual{
+  padding: 7% 15%;
+  font-size: 1rem;
+  color: #fff;
+}
+.titulo-ritual-flores{
+  font-family: "Raleway";
+  font-weight: bold;
+  color: #c06d85;
+  padding-top: 20px;
+}
+
+/* RITUAL MADRE */
+.madre-container{
+  background-color: #fff;
+}
+.arbol-img{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+.text-container1{
+  text-align: center;
+  width: 40%;
+  font-family: "Raleway";
+  line-height: 1.7rem;
+  color: #c06d85;
+}
+.titulo-ritual-madre{
+  font-family: "Raleway";
+  font-weight: bold;
+  color: #ad3251;
+  padding-top: 20px;
+}
+.explicacion-ritual1{
+  padding: 7% 15%;
+  font-size: 1rem;
+}
+
+/* RITUAL NOVENA */
+.novena-container{
+  background-color: #ccad6c ;
+}
+.novena-img{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+.text-container2{
+  text-align: center;
+  width: 40%;
+  font-family: "Raleway";
+  line-height: 1.7rem;
+  color: #fff;
+}
+.titulo-ritual-novena{
+  font-family: "Raleway";
+  font-weight: bold;
+  color: #fff;
+  padding-top: 20px;
+}
+.explicacion-ritual2{
+  padding: 7% 15%;
+  font-size: 1rem;
+}
+
+/* RITUAL MINERALES */
+.minerales-container{
+  background-color: #fff ;
+}
+.minerales-img{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+.text-container3{
+  text-align: center;
+  width: 40%;
+  font-family: "Raleway";
+  line-height: 1.7rem;
+  color: #c06d85 ;
+}
+.titulo-ritual-minerales{
+  font-family: "Raleway";
+  font-weight: bold;
+  color: #ad3251;
+  padding-top: 20px;
+}
+.explicacion-ritual3{
+  padding: 7% 15%;
+  font-size: 1rem;
+}
+
+/* FOOTER */
+
+.footer{
+  font-family: "Raleway";
+  background-color:#ffcbd8;
+  text-align: center;
+  padding: 7% 15%;
+}
+.social-icon{
+  color: #c06d85;
+  margin: 20px 10px;
+}
+.copyright-footer{
+  color: #fff;
+}
